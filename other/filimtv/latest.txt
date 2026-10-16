@@ -1,2 +1,2 @@
-filimtv-1.0.5.apk
-Version 1.0.5
+filimtv-1.0.6.apk
+Version 1.0.6
