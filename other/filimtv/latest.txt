@@ -1,2 +1,2 @@
-filimtv-1.0.6.apk
-Version 1.0.6
+filimtv-1.0.7.apk
+Retry reseau + anti-cache + version accueil
