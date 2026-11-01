@@ -22,22 +22,26 @@
     },
 
 
-  "ligues": {
-
+"ligues": {
     "main_language": "turkish",
 
-    "superlig":{
-        "turkish": ["BEIN SPORTS 1", "BEIN SPORTS 2"]
+    "superlig": {
+        "turkish": ["BEIN SPORTS 1", "BEIN SPORTS 2", "BEIN SPORTS CONNECT"]
+    },
+
+    "champions_league": {
+        "turkish": ["TRT 1", "TRT SPOR", "TABII SPOR"],
+        "french": ["CANAL+", "CANAL+ FOOT", "BEIN SPORTS"]
     },
 
     "euro": {
         "turkish": ["TABII SPOR", "TRT 1", "TRT SPOR"],
-        "french": ["TF1"]
+        "french": ["TF1", "M6", "BEIN SPORTS"]
     },
 
     "laliga": {
-        "turkish": ["S SPOR"],
-        "french": ["DAZN"]
+        "turkish": ["S SPOR", "S SPOR 2", "S SPOR+", "DISNEY+ TURKEY"],
+        "french": ["DAZN", "DISNEY+ FRANCE"]
     }
   }
 
