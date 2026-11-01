@@ -1,0 +1,44 @@
+{
+
+
+
+
+    "settings": {
+       "yassirtv": {
+            "status": false,
+            "message": "YassirTV is currently under maintenance. Please check back later."
+       },
+
+       "vavoo_kool_oha": {
+            "status": true,
+            "message": "",
+            "raffraichissement_auto": false,
+            "intervalle_rafraichissement": {
+                "days": 0,
+                "hours": 24,
+                "minutes": 0,
+            }   
+       }
+    },
+
+
+  "ligues": {
+
+    "main_language": "turkish",
+
+    "superlig":{
+        "turkish": ["BEIN SPORTS 1", "BEIN SPORTS 2"]
+    },
+
+    "euro": {
+        "turkish": ["TABII SPOR"],
+        "french": ["TF1"]
+    },
+
+    "laliga": {
+        "turkish": ["S SPOR"],
+        "french": ["DAZN"]
+    }
+  }
+
+}
