@@ -1,7 +1,3 @@
-filimtv-1.1.2.apk
-Vavoo/Kool/Oha: nouveau backend MediaHub (miroirs oha.cx, kool.ws, geil.*), catalogue complet pagine (~9500 chaines).
-Bouton rafraichir + auto-refresh Vavoo (30 min).
-Football favori: chaines par ligue depuis settings.json, filtrees par langue/pays.
-Agenda football: appui sur un match -> chaines de la ligue (settings.json).
-YassirTV: nouvelle API kora-api + lecture native HLS plein ecran (sans pubs ni boutons serveur).
-Header: 'cay yap !', version 1.1.2.
+filimtv-1.1.3.apk
+Football favori: 3 niveaux (Ligue -> bouton par chaine configuree ex. TABII SPOR / TRT 1 / TF1 -> flux).
+Version 1.1.3.
